@@ -1,6 +1,11 @@
-# AFD-dataset
-We public the first part now, and public the second part in future.
+
+# AFD-dataset.
+More detials are in paper "An Asian Face Dataset and How Race Influences Face Recognition".
 
 First part includes 1663 subjects and 310k facial pictures.
+part1  链接: https://pan.baidu.com/s/1swTNNE3Bp_Zc0640ItGDww 提取码: qmft 
 
-AFD : 链接: https://pan.baidu.com/s/19xVy9T6OjpGQ17lUVly5TQ 密码: 748f 
+Second part
+part2  链接: https://pan.baidu.com/s/186KNry_MIXr8DCEqY9rxWw 提取码: 4pij 
+
+
