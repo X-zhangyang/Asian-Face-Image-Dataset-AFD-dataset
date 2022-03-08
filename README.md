@@ -1,3 +1,5 @@
+We collect and share an Asian face dataset which name is AFD-dataset. 
+
 
 # AFD-dataset.
 More detials are in paper "An Asian Face Dataset and How Race Influences Face Recognition".
