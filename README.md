@@ -1,4 +1,8 @@
-We collect and share an Asian face dataset which name is AFD-dataset. 
+We create the largest Asian face dataset so far, containing 360,000 face images by 2019 individuals. In contrast, the second largest Asian face dataset CASIA-FaceV5 merely includes 2500 images by 500 individuals.
+
+
+![image](https://github.com/X-zhangyang/Asian-Face-Image-Dataset-AFD-dataset/blob/master/sample.png )
+
 
 
 # AFD-dataset.
@@ -15,3 +19,4 @@ Second part
 Part2  链接: https://pan.baidu.com/s/186KNry_MIXr8DCEqY9rxWw 提取码: 4pij 
 
 
+Paper： https://github.com/X-zhangyang/Asian-Face-Image-Dataset-AFD-dataset/blob/master/An%20Asian%20Face%20Dataset%20and%20How%20Race%20Influences%20Face%20Recognition_V2.pdf
