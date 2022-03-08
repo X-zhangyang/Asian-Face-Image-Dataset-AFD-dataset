@@ -1,5 +1,6 @@
 We create the largest Asian face dataset so far, containing 360,000 face images by 2019 individuals. In contrast, the second largest Asian face dataset CASIA-FaceV5 merely includes 2500 images by 500 individuals.
 
+Samples show as follow.
 
 ![image](https://github.com/X-zhangyang/Asian-Face-Image-Dataset-AFD-dataset/blob/master/sample.png )
 
